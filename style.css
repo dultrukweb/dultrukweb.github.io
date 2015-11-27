@@ -28,7 +28,7 @@ nav{background-color:#65AFA2;
 nav ul{list-style:none;
 }
 nav ul li{display:inline-block;padding:0 5px;
-    border-left:2px solid white;
+    border-left:2px solid black;
 }
 
 nav ul li:hover{background-color:darkgray;}
