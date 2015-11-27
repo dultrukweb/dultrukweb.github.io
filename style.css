@@ -15,13 +15,13 @@ header{
 	  border-bottom: 5px solid black;
 	  background-color:gray;
 	  text-align:center;
-	  color:yellowgray;
+	  color:green;
 	  padding: 20px;}
 	  
 	  
-nav{background-color:#65AFA2;
+nav{background-color:green;
   padding:20px;
-
+  color:#fff;
   text-align:center;}
   
   
