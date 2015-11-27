@@ -17,6 +17,24 @@ header{
 	  text-align:center;
 	  color:;
 	  padding: 20px;}
+	  
+	  
+nav{background-color:#65AFA2;
+  padding:20px;
+  color:#fff;
+  text-align:center;}
+  
+  
+nav ul{list-style:none;
+}
+nav ul li{display:inline-block;padding:0 5px;
+    border-left:2px solid white;
+}
+
+nav ul li:hover{background-color:darkgray;}
+
+
+
 section{ 
 	 width:50%;
 	 margin:10px;
@@ -49,11 +67,3 @@ text-decoration:none;
 
 footer a:hover{
 text-decoration:underline;}
-
-
-
-
-
-
-
-	 
